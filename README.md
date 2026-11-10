@@ -2,15 +2,15 @@
 
 这是一个可直接部署到 GitHub Pages 的静态个人主页。页面使用英文为主，保留一小段中文背景说明。
 
-## 发布前必须替换
+## 当前状态
 
-在 `index.html` 中搜索并替换：
+姓名、公开邮箱和 UESTC 大二学生身份已经写入主页。页面目前只剩三个可选链接占位：
 
-- 姓名已设置为 `Zijian Wu`。
-- 页面已写入公开邮箱 `xvfengnianwzj@gmail.com`。
-- 页面身份已设置为 `sophomore at UESTC`。
 - `YOUR_GOOGLE_SCHOLAR_URL`：创建 Google Scholar 主页后填入。
-- `YOUR_ORCID_URL`、`YOUR_GITHUB_URL`：有对应主页时再填。
+- `YOUR_ORCID_URL`：有 ORCID 主页时再填入。
+- `YOUR_GITHUB_URL`：有个人 GitHub 主页时再填入。
+
+这些占位不影响主页访问或 OpenReview 的 Homepage URL 要求。
 
 不要把患者资料、实验原始数据、内部路径或未公开论文材料放入网站。
 
